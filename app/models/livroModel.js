@@ -18,7 +18,7 @@ var livroSchema = new Schema({
     },
     autor: {
         type: String,
-        Required: 'Favor digitar nome ddo Autor'
+        Required: 'Favor digitar nome do Autor'
         
     }
 
