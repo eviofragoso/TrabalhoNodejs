@@ -1,0 +1,19 @@
+{
+  "name": "trabalho4",
+  "version": "1.0.0",
+  "description": "Trabalho4",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.29",
+    "mongoose": "^4.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Evio Fragoso",
+  "license": "ISC"
+}
